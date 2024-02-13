@@ -1,10 +1,10 @@
 //name of object, type of your content, file-name
-const miniCore = extend(CoreBlock, "mini-core", {
+const miniCore = extend(CoreBlock, "power-core", {
 	targetable: false,
 	buildCostMultiplier: 3,
 //is it possible to build a core regardless of another core, true or false.
 canPlaceOn(tile, team, rotation){
-        return true;
+        return false;
     },
 //can this core replace another one
     canReplace(other){

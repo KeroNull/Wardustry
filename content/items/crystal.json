@@ -1,0 +1,12 @@
+{
+  "name": "Crystal",
+  "description": "Crystal is a solid material are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions.",
+  "cost": 1,
+  "color": "202023",
+  "hardness": 1,
+  "flammability": 0.1,
+  "explosiveness": 0.1,
+  "radioactivity": 0.1,
+  "charge": 0.1,
+   "research": {}
+}

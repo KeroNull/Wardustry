@@ -4,6 +4,7 @@
   "health": 500,
   "itemCapacity": 1000,
   "requirements": [
+    { "item": "scrap","amount": 1000}
   ],
   "category": "effect",
   "research": {
@@ -12,6 +13,6 @@
       "scrap/500"
     ]
   },
-  "unitType": "scrap-mini",
+  "unitType": "mono",
   "unitCapModifier": 4
 }
