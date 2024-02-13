@@ -1,0 +1,14 @@
+{
+    displayName: Wardustry
+    repo: 
+    name: wardustry
+
+    author: KeroNull
+        
+    description:
+        Wardustry
+
+    subtitle: "Wardustry yes!"
+    minGameVersion: 146
+    version: "0.1"
+}
