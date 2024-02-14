@@ -1,0 +1,17 @@
+{
+  "type": "flying",
+  "name": "[white]Power",
+  "description": "Power.",
+  "drag": 0.15,
+  "speed": 1,
+  "research": "power-core",
+  "buildSpeed": 0.25,
+  "mineSpeed": 2,
+  "mineTier": 1,
+  "armor": 1,
+  "coreUnitDock": true,
+  "health": 10,
+  "flying": true,
+  "itemCapacity": 5,
+  "hitSize": 1
+}

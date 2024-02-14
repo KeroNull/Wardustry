@@ -1,0 +1,13 @@
+{
+  "size": 1,
+  "researchCostMultiplier": 0.5,
+  "health": 1000,
+  "itemCapacity": 1000,
+  "requirements": [
+  ],
+  "category": "effect",
+  "research": {
+  },
+  "unitType": "power",
+  "unitCapModifier": 4
+}

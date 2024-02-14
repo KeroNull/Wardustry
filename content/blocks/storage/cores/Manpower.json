@@ -4,15 +4,15 @@
   "health": 500,
   "itemCapacity": 1000,
   "requirements": [
-    { "item": "scrap","amount": 1000}
+    { "item": "crystal","amount": 100}
   ],
   "category": "effect",
   "research": {
-    "parent": "scrap",
+    "parent": "crystal",
     "requirements": [
-      "scrap/500"
+      "crystal/500"
     ]
   },
-  "unitType": "mono",
-  "unitCapModifier": 4
+  "unitType": "ower",
+  "unitCapModifier": 2
 }
