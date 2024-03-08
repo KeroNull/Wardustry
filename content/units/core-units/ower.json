@@ -1,10 +1,10 @@
 {
   "type": "flying",
-  "name": "[white]Power",
-  "description": "Power.",
+  "name": "[white]ower",
+  "description": "ower.",
   "drag": 0.15,
   "speed": 1,
-  "research": "power-core",
+  "research": "Manpower",
   "buildSpeed": 0.25,
   "mineSpeed": 2,
   "mineTier": 1,
@@ -12,6 +12,6 @@
   "coreUnitDock": true,
   "health": 10,
   "flying": true,
-  "itemCapacity": 5,
+  "itemCapacity": 1,
   "hitSize": 1
 }
